@@ -1,3 +1,8 @@
+
+html {
+  color-scheme: light dark;
+}
+
 body {
   font: 100%/1.5 system-ui;
   max-width: 100ch;
@@ -7,6 +12,9 @@ body {
 
 nav {
   display: flex;
+  --border-color: oklch(50% 10% 200 / 40%);
+  margin-bottom: 1em;
+  border-bottom: 1px solid var(--border-color);
 }
 
 nav a {
@@ -21,10 +29,6 @@ nav a {
   padding: 0.5em;
 }
 
-nav {
-  margin-bottom: 1em;
-  border-bottom: 1px solid oklch(80% 3% 200);
-}
 
 nav a.current {
   border-bottom: 0.4em solid oklch(80% 3% 200);
@@ -38,7 +42,7 @@ nav a.current {
 
 nav a:hover {
   border-bottom: 0.4em solid var(--color-accent);
-  background-color: oklch(from var(--color-accent) 95% 5% h);
+  background-color: color-mix(in oklch, var(--color-accent), canvas 85%);
 }
 
 form input,
@@ -127,4 +131,15 @@ h6 {
 
 .cv li {
   margin-block: 0.25em;
+}
+
+select {
+  font: inherit;
+}
+
+.color-scheme {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 80%;
 }
