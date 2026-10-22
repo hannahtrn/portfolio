@@ -143,3 +143,52 @@ select {
   right: 1rem;
   font-size: 80%;
 }
+
+#profile-stats {
+  margin-block: 2rem;
+  padding: 1.5rem;
+  background: #f5f7fa;
+  border-radius: 12px;
+}
+
+#profile-stats h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+}
+
+#profile-stats dl {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+  margin: 0;
+  text-align: center;
+}
+
+#profile-stats dt {
+  grid-row: 1;
+  font-size: 0.85rem;
+  color: #64748b;
+}
+
+#profile-stats dd {
+  grid-row: 2;
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #334155;
+}
+
+@media (max-width: 500px) {
+  #profile-stats {
+    padding: 1rem;
+  }
+
+  #profile-stats dt {
+    font-size: 0.7rem;
+  }
+
+  #profile-stats dd {
+    font-size: 1.5rem;
+  }
+}

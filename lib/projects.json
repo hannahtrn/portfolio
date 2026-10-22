@@ -1,0 +1,74 @@
+[
+    {
+      "title": "House Price Estimator",
+      "year": 2026,
+      "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+      "description": "Built a machine learning application to estimate California home prices using Python, Pandas, scikit-learn, Random Forest, and XGBoost. Cleaned housing data, explored important features, tuned models, and presented results through Tableau and Streamlit."
+    },
+    {
+      "title": "IDX Housing Data Analysis",
+      "year": 2026,
+      "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+      "description": "Analyzed more than 70,000 California housing records to identify pricing patterns, examine missing values and outliers, and understand which property features were most related to home prices."
+    },
+    {
+      "title": "Cryptocurrency Risk Model Comparison",
+      "year": 2026,
+      "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+      "description": "Explored approaches for evaluating cryptocurrency market risk by comparing traditional risk measures such as Value at Risk with time-series models such as GARCH."
+    },
+    {
+      "title": "Android Malware Analysis",
+      "year": 2026,
+      "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+      "description": "Designed a Bayesian network approach to investigate how Android app permissions relate to malware. The proposed analysis uses permission data, maximum likelihood estimation, and probabilistic inference."
+    },
+    {
+      "title": "Reef Coral Health Classifier",
+      "year": 2025,
+      "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+      "description": "Developed a coral health classification application using React, FastAPI, and scikit-learn, with Leaflet for map-based visualization of coral health information."
+    },
+    {
+      "title": "Interactive Course Planner",
+      "year": 2025,
+      "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+      "description": "Built a course planning web application using React, Node.js, and drag-and-drop interactions to help students organize their classes and plan their schedules."
+    },
+    {
+      "title": "Beats by Dre Review Analysis",
+      "year": 2025,
+      "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+      "description": "Analyzed more than 2,500 product reviews across multiple brands using Python, Pandas, Excel, and visualization tools to explore customer feedback and product trends."
+    },
+    {
+      "title": "Polymarket Insider Wallet Analysis",
+      "year": 2026,
+      "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+      "description": "Investigated millions of prediction-market trades to identify potentially informed trading wallets. Used statistical hypothesis testing and bootstrapping to evaluate trading patterns and potential market advantages."
+    },
+    {
+      "title": "Drosophila Brain Image Analysis",
+      "year": 2026,
+      "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+      "description": "Contributed to research involving 3D fruit fly brain image processing to investigate questions related to sleep and Alzheimer's disease. Organized and examined research data to support analysis."
+    },
+    {
+      "title": "Personal Portfolio Website",
+      "year": 2026,
+      "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+      "description": "Created a personal portfolio website for showcasing data science projects, education, and experience. Used HTML, CSS, and JavaScript modules to organize pages and dynamically display project data."
+    },
+    {
+      "title": "Housing Data Visualization",
+      "year": 2026,
+      "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+      "description": "Explored housing data through data cleaning, exploratory analysis, and visualization to communicate patterns and relationships in property prices and characteristics."
+    },
+    {
+      "title": "Retail Food Processing Analysis",
+      "year": 2026,
+      "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+      "description": "Compared products from Walmart, Target, and Whole Foods to investigate whether higher prices consistently correspond to less-processed foods. Used data visualization to examine differences across retailers and product categories."
+    }
+  ]
