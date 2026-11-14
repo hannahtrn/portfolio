@@ -1,5 +1,12 @@
 [
     {
+      "title": "Bikewatching",
+      "year": 2026,
+      "url": "https://hannahtrn.github.io/bikewatching/",
+      "image": "images/bikewatching.png",
+      "description": "Interactive map of Bluebikes traffic in Boston and Cambridge, built with Mapbox and D3. Circle size shows trips per station, color shows departures vs. arrivals, and a time slider filters by time of day."
+    },
+    {
       "title": "House Price Estimator",
       "year": 2026,
       "image": "https://dsc106.com/labs/lab02/images/empty.svg",
